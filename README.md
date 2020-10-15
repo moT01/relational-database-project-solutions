@@ -1,0 +1,1 @@
+This repo contains solutions for the relational database certfication projects. Follow the instructions in each folders readme to build the solution.
