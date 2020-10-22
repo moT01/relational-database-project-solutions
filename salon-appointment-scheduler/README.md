@@ -1,0 +1,1 @@
+Copy the `salon.sql` file into the workspace (`project`) folder. Run `psql -U postgres < salon.sql` in the terminal to build the database. Making sure you enter the command from the same folder as the file is located. Next, copy `salon.sh` into the workspace (`project`) folder. Change the file permissions with `chmod +x salon.sh`. Run the tests.

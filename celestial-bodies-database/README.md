@@ -1,1 +1,1 @@
-Copy the `universe.sql` file into the workspace folder run `psql -U postgres < universe.sql` in the terminal to build the database. Making sure you enter the command from the same folder as the file is located.
+Copy the `universe.sql` file into the workspace (`project`) folder. Run `psql -U postgres < universe.sql` in the terminal to build the database. Making sure you enter the command from the same folder as the file is located. Run the tests.
