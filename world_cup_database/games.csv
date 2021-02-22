@@ -1,0 +1,145 @@
+year,round,winner,opponenet,winner_goals,opponent_goals
+2018,Final,France,Croatia,4,2
+2018,Third Place,Belgium,England,2,0
+2018,Semi-Final,Croatia,England,2,1
+2018,Semi-Final,France,Belgium,1,0
+2018,Quarter-Final,Croatia,Russia,3,2
+2018,Quarter-Final,England,Sweden,2,0
+2018,Quarter-Final,Belgium,Brazil,2,1
+2018,Quarter-Final,France,Uruguay,2,0
+2018,Eighth-Final,England,Colombia,2,1
+2018,Eighth-Final,Sweden,Switzerland,1,0
+2018,Eighth-Final,Belgium,Japan,3,2
+2018,Eighth-Final,Brazil,Mexico,2,0
+2018,Eighth-Final,Croatia,Denmark,2,1
+2018,Eighth-Final,Russia,Spain,2,1
+2018,Eighth-Final,Uruguay,Portugal,2,1
+2018,Eighth-Final,France,Argentina,4,3
+2014,Final,Germany,Argentina,1,0
+2014,Third Place,Netherlands,Brazil,3,0
+2014,Semi-Final,Argentina,Netherlands,1,0
+2014,Semi-Final,Germany,Brazil,7,1
+2014,Quarter-Final,Netherlands,Costa Rica,1,0
+2014,Quarter-Final,Argentina,Belgium,1,0
+2014,Quarter-Final,Brazil,Colombia,2,1
+2014,Quarter-Final,Germany,France,1,0
+2014,Eighth-Final,England,Colombia,2,1
+2014,Eighth-Final,Sweden,Switzerland,1,0
+2014,Eighth-Final,Belgium,Japan,3,2
+2014,Eighth-Final,Brazil,Mexico,2,0
+2014,Eighth-Final,Croatia,Denmark,2,1
+2014,Eighth-Final,Russia,Spain,2,1
+2014,Eighth-Final,Uruguay,Portugal,2,1
+2014,Eighth-Final,France,Argentina,4,3
+2010,Final,Spain,Netherlands,1,0
+2010,Third Place,Germany,Uruguay,3,2
+2010,Semi-Final,Spain,Germany,1,0
+2010,Semi-Final,Netherlands,Uruguay,3,2
+2010,Quarter-Final,Spain,Paraguay,1,0
+2010,Quarter-Final,Germany,Argentina,4,0
+2010,Quarter-Final,Uruguay,Ghana,2,1
+2010,Quarter-Final,Netherlands,Brazil,2,1
+2010,Eighth-Final,Spain,Portugal,1,0
+2010,Eighth-Final,Paraguay,Japan,1,0
+2010,Eighth-Final,Brazil,Chile,3,0
+2010,Eighth-Final,Netherlands,Slovakia,2,1
+2010,Eighth-Final,Argentina,Mexico,3,1
+2010,Eighth-Final,Germany,England,4,1
+2010,Eighth-Final,Ghana,USA,2,1
+2010,Eighth-Final,Uruguay,South Korea,2,1
+2006,Final,Italy,France,2,1
+2006,Third Place,Germany,Portugal,3,1
+2006,Semi-Final,France,Portugal,1,0
+2006,Semi-Final,Italy,Germany,2,0
+2006,Quarter-Final,France,Brazil,1,0
+2006,Quarter-Final,Portugal,England,1,0
+2006,Quarter-Final,Italy,Ukraine,3,0
+2006,Quarter-Final,Germany,Argentina,2,1
+2006,Eighth-Final,France,Spain,3,1
+2006,Eighth-Final,Brazil,Ghana,3,0
+2006,Eighth-Final,Ukraine,Switzerland,1,0
+2006,Eighth-Final,Italy,Australia,1,0
+2006,Eighth-Final,Portugal,Netherlands,1,0
+2006,Eighth-Final,England,Ecuador,1,0
+2006,Eighth-Final,Argentina,Mexico,2,1
+2006,Eighth-Final,Germany,Sweden,2,0
+2002,Final,Brazil,Germany,2,0
+2002,Third Place,Turkey,South Korea,3,2
+2002,Semi-Final,Brazil,Turkey,1,0
+2002,Semi-Final,Germany,South Korea,1,0
+2002,Quarter-Final,Turkey,Senegal,1,0
+2002,Quarter-Final,South Korea,Spain,1,0
+2002,Quarter-Final,Germany,USA,1,0
+2002,Quarter-Final,Brazil,England,2,1
+2002,Eighth-Final,South Korea,Italy,2,1
+2002,Eighth-Final,Turkey,Japan,1,0
+2002,Eighth-Final,Brazil,Belgium,2,0
+2002,Eighth-Final,USA,Mexico,2,0
+2002,Eighth-Final,Spain,Ireland,2,1
+2002,Eighth-Final,Senegal,Sweden,2,1
+2002,Eighth-Final,England,Denmark,3,0
+2002,Eighth-Final,Germany,Paraguay,1,0
+1998,Final,France,Brazil,3,0
+1998,Third Place,Croatia,Netherlands,2,1
+1998,Semi-Final,France,Croatia,2,1
+1998,Semi-Final,Brazil,Netherlands,2,1
+1998,Quarter-Final,Croatia,Germany,3,0
+1998,Quarter-Final,Netherlands,Argentina,2,1
+1998,Quarter-Final,Brazil,Denmark,3,2
+1998,Quarter-Final,France,Italy,1,0
+1998,Eighth-Final,Argentina,England,3,2
+1998,Eighth-Final,Croatia,Romania,1,0
+1998,Eighth-Final,Netherlands,Yugoslavia,2,1
+1998,Eighth-Final,Germany,Mexico,2,1
+1998,Eighth-Final,Denmark,Nigeria,4,1
+1998,Eighth-Final,France,Paraguay,1,0
+1998,Eighth-Final,Brazil,Chile,4,1
+1998,Eighth-Final,Italy,Norway,1,0
+1994,Final,Brazil,Italy,1,0
+1994,Third Place,Sweden,Bulgaria,4,0
+1994,Semi-Final,Brazil,Sweden,1,0
+1994,Semi-Final,Italy,Bulgaria,2,1
+1994,Quarter-Final,Sweden,Romania,3,2
+1994,Quarter-Final,Bulgaria,Germany,2,1
+1994,Quarter-Final,Brazil,Netherlands,3,2
+1994,Quarter-Final,Italy,Spain,2,1
+1994,Eighth-Final,Bulgaria,Mexico,2,1
+1994,Eighth-Final,Italy,Nigeria,2,1
+1994,Eighth-Final,Brazil,USA,1,0
+1994,Eighth-Final,Netherlands,Ireland,2,0
+1994,Eighth-Final,Romania,Argentina,3,2
+1994,Eighth-Final,Sweden,Saudi Arabia,3,1
+1994,Eighth-Final,Germany,Belgium,3,2
+1994,Eighth-Final,Spain,Switzerland,3,0
+1990,Final,Germany,Argentina,1,0
+1990,Third Place,Italy,England,2,1
+1990,Semi-Final,Germany,England,2,1
+1990,Semi-Final,Argentina,Italy,2,1
+1990,Quarter-Final,England,Cameroon,3,2
+1990,Quarter-Final,Germany,Czechoslovakia,1,0
+1990,Quarter-Final,Italy,Ireland,1,0
+1990,Quarter-Final,Argentina,Yugoslavia,1,0
+1990,Eighth-Final,England,Belgium,1,0
+1990,Eighth-Final,Yugoslavia,Spain,2,1
+1990,Eighth-Final,Italy,Uruguay,2,0
+1990,Eighth-Final,Ireland,Romania,1,0
+1990,Eighth-Final,Germany,Netherlands,2,1
+1990,Eighth-Final,Argentina,Brazil,1,0
+1990,Eighth-Final,Czechoslovakia,Costa Rica,4,1
+1990,Eighth-Final,Cameroon,Colombia,2,1
+1986,Final,Argentina,Germany,3,2
+1986,Third Place,France,Belgium,4,2
+1986,Semi-Final,Argentina,Belgium,2,0
+1986,Semi-Final,Germany,France,2,0
+1986,Quarter-Final,Belgium,Spain,2,1
+1986,Quarter-Final,Argentina,England,2,1
+1986,Quarter-Final,Germany,Mexico,1,0
+1986,Quarter-Final,France,Brazil,2,1
+1986,Eighth-Final,Spain,Denmark,5,1
+1986,Eighth-Final,England,Paraguay,3,0
+1986,Eighth-Final,Germany,Morocco,1,0
+1986,Eighth-Final,France,Italy,2,0
+1986,Eighth-Final,Argentina,Uruguay,1,0
+1986,Eighth-Final,Brazil,Poland,4,0
+1986,Eighth-Final,Belgium,SSSR,4,3
+1986,Eighth-Final,Mexico,Bulgaria,2,0
