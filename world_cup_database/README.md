@@ -6,4 +6,6 @@ Give the two script (`.sh`) files executable permissions with `chmod +x <filenam
 
 Copy the contents of the `insert_data.sh` and `queries.sh` here to your project
 
+Run `./insert_data.sh` in the terminal from the same folder the file is located
+
 Run the tests
